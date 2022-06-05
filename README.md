@@ -1,26 +1,17 @@
 # School_District_Analysis
 
-## Overview of Election Audit
+## Overview of the School Distict Analysis
 
-The election audit consists of the tabulated results for US congressional present in Colorado. Three primary methods are taken into account to cast votes: main-In ballots, punch cards and direct recording. All three methods are collected in the central office and compiled in a .csv file which is used as the source of the data set for the audit.
+The school district analysis consists of preparing standardized test data from a variety of sources and formats for analysis, reporting and presentation to provide insights about performance trends and patterns. The insights are used to inform discussions at the school and district level and assist the school board reagarding school budget and priority. 
 
-The objective of the audit is as follows:
-* Count the total number of votes cast
-* Number of votes for each candidate
-* Percentage of votes for each candidate 
-* Winner of the election based on the popular vote
+The objectives of the analysis is to analyze data on student funding and students standardized test scores, aggregate the data and showcase trends and school performance.
 
-In order to complete the task, the manager has asked if there is a way to automate the process using python so it can be used to audit not only other congressional districts but also senatorial districts and local elections. Once the votes are counted, a vote count report is expected to be generated to certify the US congressional race.
+In addition to the initial task, the school board has notified the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. 
 
-In addition to the previous task, the election commission has requested additional data to complete the audit. These include the following:
-* The voter turnout for each county
-* The percentage of votes from each county out of the total count
-* The county with the highest turnout
-
-The additional task is also expected to be added to the vote count report.
+Based on this, the objective os to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once the math and reading scores have been replaced. I is expected to repeat the school district analysis that has been initially done and describe how these changes affected the overall analysis. 
 
 ---
-## Election-Audit Results
+## School District Analysis Results
 
 In order to complete the objectives of the election audit, the following script was built:
 
@@ -119,7 +110,7 @@ The results of the audit was written and saved in the election_analysis.txt file
 
 
 ---
-## Election_Audit Summary
+## School District Analysis Summary
 
 * One way to use this script for any other election would be to modify the script to be able to use a generic csv name as oppose to a given specific name.
 
