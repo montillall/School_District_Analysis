@@ -6,7 +6,7 @@ The school district analysis consists of preparing standardized test data from a
 
 The objectives of the analysis is to analyze data on student funding and students standardized test scores, aggregate the data and showcase trends and school performance.
 
-In addition to the initial task, the school board has notified the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. 
+In addition to the initial task, the school board has notified that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. 
 
 Based on this, the objective os to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once the math and reading scores have been replaced. I is expected to repeat the school district analysis that has been initially done and describe how these changes affected the overall analysis. 
 
