@@ -15,7 +15,7 @@ Based on this notice, the objective of the following analysis is to replace the 
 
 The impact of replacing the math and reading scores for Thomas High School with NaNs can be summarize as follows:
 
-* District Summary Impact
+### * District Summary Impact
 
   Comparing the original and updated analysis, it can be seen that there's a neglectable (less than 1%) impact when removing 461 test scores from the    total 39170 student data set.  
 
