@@ -40,13 +40,13 @@ The impact of replacing the math and reading scores for Thomas High School with 
 
 ### - Thomas High School Performance with respect to other schools
 
-  The orginal analysis showed that Thomas High School was second in place with respect to the other schools in terms of performance, however by removing of removing the 9th grader scores from the Thomas High School data set has caused to drop to the 8th place with respect to the other schools.
+  The orginal analysis showed that Thomas High School was second in place with respect to the other schools in terms of performance. However, removing the 9th grader scores from the Thomas High School data set has caused its performance to drop to the 8th place with respect to the other schools.
   
   Original Analysis 
-![](Images/School_Summary_Original.png)
+![](Images/THS_Performance_Original.png)
 
   Updated Analysis
-![](Images/School_Summary_Updated.png)
+![](Images/THS_Performance_Updated.png)
 
 
 
