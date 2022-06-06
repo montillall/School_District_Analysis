@@ -4,7 +4,7 @@
 
 The school district analysis consists of preparing standardized test data from a variety of sources and formats for analysis, reporting and presentation to provide insights about performance trends and patterns. The insights are used to inform discussions at the school and district level and assist the school board reagarding school budget and priority. 
 
-The objectives of the initial analysis was to analyze data on student funding and students standardized test scores, aggregate the data and showcase trends and school performance.
+The objectives of the original analysis was to analyze data on student funding and students standardized test scores, aggregate the data and showcase trends and school performance.
 
 However, the school board has notified that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. 
 
@@ -15,11 +15,18 @@ Based on this notice, the objective of the following analysis is to replace the 
 
 The impact of replacing the math and reading scores for Thomas High School with NaNs can be summarize as follows:
 
-* District Summary 
+* District Summary Impact
+
+Comparing the original and updated analysis, it can be seen that there's a neglectable (less than 1%) impact when removing 461 test scores from the total 39170 student data set.  
+
+Original Analysis 
+
+
+Updated Analysis
 
 
 	
-* School Summary 
+* School Summary Impact
 
 
 
@@ -28,18 +35,18 @@ The impact of replacing the math and reading scores for Thomas High School with 
 
 ![](Images/Total_Votes.png)
 
-* Math and Reading Scores by Grade
+* Math and Reading Scores by Grade Impact
 
 
 
-* Scores by School Spending
+* Scores by School Spending Impact
 
 
-* Scores by School Size
+* Scores by School Size Impact
 
 
 
-* Scores by School Type
+* Scores by School Type Impact
  
 
 
