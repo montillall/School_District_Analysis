@@ -13,9 +13,9 @@ Based on this notice, the objective of the following analysis is to replace the 
 ---
 ## School District Analysis Results
 
-In order to complete the objectives of the election audit, the following script was built:
+The impact of replacing the math and reading scores for Thomas High School with NaNs is a follows:
 
-* Added dependencies csv and os to read/write .csv and txt files and get their paths 
+* Disctrict Summary 
 
 		import csv
 		import os
