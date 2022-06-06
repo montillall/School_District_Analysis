@@ -29,7 +29,7 @@ The impact of replacing the math and reading scores for Thomas High School with 
 	
 ### - School Summary Impact
 
-  Comparing the original and updated analysis, it can be seen that there's a neglectable (less than 1%) impact when removing 461 test scores from the    total 39170 student data set.
+  The impact of removing the 9th grader scores from the Thomas High School data set is pretty high with a drop in the overall passing of 25% (from 91% to 65%).
   
   Original Analysis 
 ![](Images/School_Summary_Original.png)
