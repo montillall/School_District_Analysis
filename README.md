@@ -13,7 +13,7 @@ Based on this notice, the objective of the following analysis is to replace the 
 ---
 ## School District Analysis Results
 
-The impact of replacing the math and reading scores for Thomas High School with NaNs is a follows:
+The impact of replacing the math and reading scores for Thomas High School with NaNs can be summarize as follows:
 
 * Disctrict Summary 
 
