@@ -76,10 +76,10 @@ The impact of replacing the math and reading scores for Thomas High School with 
   It can be seen in tables below that there's no impact on the scores by school spending when removing 461 test scores from the total 39170 student data set.  
 
   Original Analysis 
-![](Images/School_by_Size_Original.png)
+![](Images/School_Size_Original.png)
 
   Updated Analysis
-![](Images/School_by_Size_Updated.png)
+![](Images/School_Size_Updated.png)
 
 
 ### - Scores by School Type Impact
