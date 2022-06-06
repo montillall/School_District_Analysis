@@ -27,27 +27,27 @@ The impact of replacing the math and reading scores for Thomas High School with 
 
 
 	
-* School Summary Impact
+### - School Summary Impact
 
 
 
-* Thomas High School Performance with respect to other schools
+### - Thomas High School Performance with respect to other schools
 
 
 ![](Images/Total_Votes.png)
 
-* Math and Reading Scores by Grade Impact
+### - Math and Reading Scores by Grade Impact
 
 
 
-* Scores by School Spending Impact
+### - Scores by School Spending Impact
 
 
-* Scores by School Size Impact
+### - Scores by School Size Impact
 
 
 
-* Scores by School Type Impact
+### - Scores by School Type Impact
  
 
 
