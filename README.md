@@ -1,6 +1,6 @@
 # School District Analysis
 
-## Overview of the School Distict Analysis
+## Overview of the School District Analysis
 
 The school district analysis consists of preparing standardized test data from a variety of sources and formats for analysis, reporting and presentation to provide insights about performance trends and patterns. The insights are used to inform discussions at the school and district level and assist the school board reagarding school budget and priority. 
 
