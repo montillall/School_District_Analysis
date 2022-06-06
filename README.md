@@ -98,7 +98,7 @@ The impact of replacing the math and reading scores for Thomas High School with 
 
 The four major changes in the updated school district analysis are: 
 * The overall passing from the Thomas High School dropped 26% wih respect to the original analysis.
-* The Thomas High school performance dropped from second place to 8th place with repect to the other schools.
+* The Thomas High school performance dropped from second place to 8th place with respect to the other schools.
 * The ninth grades were replaced with NaN therefore there's no average scores for the ninth grade in the updated analysis.
 * There is a minimal impact on the district summary as well as on the scores by school spending, size and type.
 
