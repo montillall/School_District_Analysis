@@ -52,6 +52,13 @@ The impact of replacing the math and reading scores for Thomas High School with 
 
 ### - Math and Reading Scores by Grade Impact
 
+  The orginal average scores for math and reading for the 9th grade for Thomas High School was 83.59 and 83.73 respectively, by replacing the scores with NaN, now tables below show no scores for the 9th grade. 
+  
+  Math Updated by Grade 
+![](Images/Math_by_Grade_Updated.png)
+
+  Reading Updated by Grade
+![](Images/Reading_by_Grade_Updated.png)
 
 
 ### - Scores by School Spending Impact
